@@ -1836,7 +1836,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 171.45 93.98 0)
 			(effects
 				(font
@@ -1924,7 +1924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
 			(at 189.23 93.98 0)
 			(effects
 				(font
@@ -1995,7 +1995,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 125.73 91.44 0)
 			(effects
 				(font
@@ -2023,28 +2023,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "2c71fea0-9bc3-4dee-9a7d-408d26fd8dd0")
+			(uuid "2c71fea0-9bc3-4dee-9a7d-408d26fd8dd1")
 		)
 		(pin "7"
-			(uuid "c5b071e2-0294-4b22-9203-efec8a9c8cf1")
+			(uuid "c5b071e2-0294-4b22-9203-efec8a9c8cf2")
 		)
 		(pin "1"
-			(uuid "dffa43f5-2dde-44d7-bba7-0b3b67ddaeaf")
+			(uuid "dffa43f5-2dde-44d7-bba7-0b3b67ddaeb0")
 		)
 		(pin "5"
-			(uuid "55881125-44b4-46f7-915f-949cbd3142da")
+			(uuid "55881125-44b4-46f7-915f-949cbd3142db")
 		)
 		(pin "6"
-			(uuid "193b01df-c919-4ec0-ba01-b8824276e40c")
+			(uuid "193b01df-c919-4ec0-ba01-b8824276e40d")
 		)
 		(pin "2"
-			(uuid "f5728302-dd8f-46a8-bb27-2328d21d881d")
+			(uuid "f5728302-dd8f-46a8-bb27-2328d21d881e")
 		)
 		(pin "3"
-			(uuid "868506b2-8dc2-4253-a1c8-c5355466c59f")
+			(uuid "868506b2-8dc2-4253-a1c8-c5355466c5a0")
 		)
 		(pin "8"
-			(uuid "4c9bcb21-dbde-4866-9f59-d1c9fee0979f")
+			(uuid "4c9bcb21-dbde-4866-9f59-d1c9fee097a0")
 		)
 		(instances
 			(project ""
@@ -2083,7 +2083,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 222.25 93.98 0)
 			(effects
 				(font
@@ -2111,28 +2111,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "2c71fea0-9bc3-4dee-9a7d-408d26fd8dd0")
+			(uuid "2c71fea0-9bc3-4dee-9a7d-408d26fd8dd2")
 		)
 		(pin "7"
-			(uuid "c5b071e2-0294-4b22-9203-efec8a9c8cf1")
+			(uuid "c5b071e2-0294-4b22-9203-efec8a9c8cf3")
 		)
 		(pin "1"
-			(uuid "dffa43f5-2dde-44d7-bba7-0b3b67ddaeaf")
+			(uuid "dffa43f5-2dde-44d7-bba7-0b3b67ddaeb1")
 		)
 		(pin "5"
-			(uuid "55881125-44b4-46f7-915f-949cbd3142da")
+			(uuid "55881125-44b4-46f7-915f-949cbd3142dc")
 		)
 		(pin "6"
-			(uuid "193b01df-c919-4ec0-ba01-b8824276e40c")
+			(uuid "193b01df-c919-4ec0-ba01-b8824276e40e")
 		)
 		(pin "2"
-			(uuid "f5728302-dd8f-46a8-bb27-2328d21d881d")
+			(uuid "f5728302-dd8f-46a8-bb27-2328d21d881f")
 		)
 		(pin "3"
-			(uuid "868506b2-8dc2-4253-a1c8-c5355466c59f")
+			(uuid "868506b2-8dc2-4253-a1c8-c5355466c5a1")
 		)
 		(pin "8"
-			(uuid "4c9bcb21-dbde-4866-9f59-d1c9fee0979f")
+			(uuid "4c9bcb21-dbde-4866-9f59-d1c9fee097a1")
 		)
 		(instances
 			(project ""
@@ -2171,7 +2171,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_T7-YA_Single_Vertical"
 			(at 157.48 104.14 0)
 			(effects
 				(font
@@ -2574,7 +2574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 			(at 104.14 85.09 0)
 			(effects
 				(font
@@ -2644,7 +2644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 93.98 88.9 0)
 			(effects
 				(font
@@ -2976,7 +2976,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 124.46 113.03 0)
 			(effects
 				(font
@@ -3178,7 +3178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 			(at 104.14 92.71 0)
 			(effects
 				(font
@@ -3246,7 +3246,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 			(at 124.46 102.87 0)
 			(effects
 				(font
@@ -3316,7 +3316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 208.28 93.98 0)
 			(effects
 				(font
