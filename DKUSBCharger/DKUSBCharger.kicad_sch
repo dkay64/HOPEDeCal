@@ -4686,7 +4686,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 49.53) (xy 48.26 49.53)
+			(xy 45.72 49.53) (xy 48.26 49.53)
 		)
 		(stroke
 			(width 0)
@@ -5016,7 +5016,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 46.99) (xy 54.61 46.99)
+			(xy 45.72 46.99) (xy 54.61 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7589,7 +7589,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 41.91 49.53 180)
+		(at 40.64 49.53 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7598,7 +7598,7 @@
 		(fields_autoplaced yes)
 		(uuid "e32302c7-3fb3-4813-aa12-bde9b17a072e")
 		(property "Reference" "J4"
-			(at 41.91 40.64 0)
+			(at 40.64 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7606,7 +7606,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 41.91 43.18 0)
+			(at 40.64 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7614,7 +7614,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 49.53 0)
+			(at 40.64 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7623,7 +7623,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 49.53 0)
+			(at 40.64 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7632,7 +7632,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 41.91 49.53 0)
+			(at 40.64 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
