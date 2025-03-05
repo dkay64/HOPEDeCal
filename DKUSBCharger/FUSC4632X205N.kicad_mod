@@ -1,0 +1,181 @@
+(footprint "FUSC4632X205N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD1812")
+	(tags "Resettable Fuse")
+	(property "Reference" "F**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "66f44e33-8ba8-4931-ae7b-7a8aee8405d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "FUSC4632X205N"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "144bec68-ae60-4cf3-bc04-801a8e21ce4c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6f4e51a-e900-48e2-812f-fa0e33f58a82")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4bc33fe5-3c4e-4976-8b13-e686068efca0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 -1.52)
+		(end 0 1.52)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "38ccab3f-de5c-4b7c-be40-acfe5b8b05b4")
+	)
+	(fp_line
+		(start -2.975 -1.965)
+		(end 2.975 -1.965)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "15e96c9d-5e74-44a1-8466-59c3d731615e")
+	)
+	(fp_line
+		(start -2.975 1.965)
+		(end -2.975 -1.965)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1a6ea723-3359-4f14-8ab5-9ad2810123c9")
+	)
+	(fp_line
+		(start 2.975 -1.965)
+		(end 2.975 1.965)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a854ac93-a90a-4371-b82e-04ecb60487fa")
+	)
+	(fp_line
+		(start 2.975 1.965)
+		(end -2.975 1.965)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1f36f3d2-ea02-40af-bdd4-8ea47cabcc5a")
+	)
+	(fp_line
+		(start -2.275 -1.62)
+		(end 2.275 -1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bcd8a052-1ad6-4a08-9e84-2227c01b3acc")
+	)
+	(fp_line
+		(start -2.275 1.62)
+		(end -2.275 -1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "31accb4d-5116-4d5c-9b4c-d8c77ad291dc")
+	)
+	(fp_line
+		(start 2.275 -1.62)
+		(end 2.275 1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0ee61aeb-167a-4c6f-8255-e6e8464b938e")
+	)
+	(fp_line
+		(start 2.275 1.62)
+		(end -2.275 1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "02d89a4d-9612-4751-8937-395a698f38ba")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "bdda42f3-a39d-435d-9913-032262359319")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.96 0)
+		(size 1.53 3.43)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3240a78e-6e7f-4e4f-9d7b-86dd2bfb0086")
+	)
+	(pad "2" smd rect
+		(at 1.96 0)
+		(size 1.53 3.43)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c82da320-841f-4387-a5b9-9434832c8478")
+	)
+	(embedded_fonts no)
+	(model "SMD1812B260TF_12.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
