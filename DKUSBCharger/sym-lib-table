@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "USBChargerLibrary")(type "KiCad")(uri "${KIPRJMOD}/USBChargerLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "USBChargerSymbols")(type "KiCad")(uri "${KIPRJMOD}/USBChargerSymbols/USBChargerLibrary.kicad_sym")(options "")(descr ""))
 )
